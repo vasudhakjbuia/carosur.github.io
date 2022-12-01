@@ -1,0 +1,27 @@
+.bgimg{
+    background-image:url("https://img.freepik.com/premium-photo/hyderabadi-chicken-dum-biryani-served-kadhai-bowl-with-yogurt-dip-selective-focus_466689-18071.jpg?w=1060");
+    height: 100vh;
+    width: 95vw;
+    background-size: cover;
+}
+.layoutcard{
+    background-color: bisque;
+    height: 100px;
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.quotation{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
